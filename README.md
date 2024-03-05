@@ -11,11 +11,11 @@ Follow these steps to install and run the project:
 1. Clone the repository:
 
 ````bash
-git clone <repository-url>
-
+git clone https://github.com/thanhlp18/vuejs-learning_events-show-list.git
+````
 2. Navigate into the cloned repository:
 ```bash
-cd <repository-name>
+cd vuejs-learning_events-show-list
 npm install
 npm run dev
 ````
